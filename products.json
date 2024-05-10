@@ -1,0 +1,102 @@
+[
+       {
+            "name": "C8 ZO6",
+            "price": "180,000",
+            "description": "The mid-engine Corvette C8 redefined the modern price-to-performance equation, and the Z06 version hones it to a razor's edge. The naturally aspirated 670-horsepower 5.5-liter flat-plane crank V-8 sings its siren song to 8500 rpm while the chassis works to defy physics.",
+            "photo": "videos-images/zo6.png",
+            "model": "Chevy"
+        },
+        {
+            "name": "C8 2lt",
+            "price": "80,000",
+            "description": "The Chevrolet Corvette (C8) is the eighth generation of the Corvette sports car manufactured by American automobile manufacturer Chevrolet. It is the first rear mid-engine Corvette since the model's introduction in 1953, differing from the traditional front mid-engine design started in 1963.",
+            "photo": "videos-images/2lt.png",
+            "model": "Chevy"
+        }
+    ,
+    {
+        "name": "C7 ZR1",
+        "price": "140,000",
+        "description": "The ZR1 featured massive carbon-ceramic brakes and race car-level aerodynamics—aero so serious that the optional large rear wing is said to produce 950 pounds of downforce at higher speeds! Backing the LT5 is either an eight-speed automatic or a seven-speed manual.",
+        "photo": "videos-images/zr1.png",
+        "model": "Chevy"
+    },
+    {
+        "name": "Camaro ZR1",
+        "price": "75,000",
+        "description": "In a segment full of burbling American muscle, the Chevy Camaro ZL1 proves stereotypes are as good as garbage thanks to its great handling, sharp steering, and stonking powertrain. Beneath the hood is a 650-hp supercharged pushrod V-8 borrowed from the last-generation C7 Corvette Z06.",
+        "photo": "videos-images/Maro.png",
+        "model": "Chevy"
+    },
+    {
+        "name": "C7 GrandSport",
+        "price": "75,000",
+        "description": "The Grand Sport is a hybrid of the Z51 Stingray and the Z06; sharing much of the wide body work of the Z06 (except the hood) with the Z51 LT1 dry sump engine. The Grand Sport features: Michelin Pilot Super Sport summer tires: 285/30ZR19 (front) and 335/25ZR20 (rear)",
+        "photo": "videos-images/grandsport.png",
+        "model": "Chevy"
+    },
+    {
+        "name": "Hellcat Chanllenger",
+        "price": "90,000",
+        "description": "With its extra width and Supercharged 6.2L HEMI® SRT Hellcat V8 engine, this monster's handling ability makes every drive an unparalleled rush.",
+        "photo": "videos-images/Chally.png",
+        "model": "Dodge"
+    },
+    {
+        "name": "Hellcat Charger WideBody",
+        "price": "95,000",
+        "description": "While its Supercharged 6.2L HEMI® V8 engine brings the speed and the thunder, its extra-wide fenders offer a threatening stance that'll leave onlookers speechless.",
+        "photo": "videos-images/ChargerWB.png",
+        "model": "Dodge"
+    },
+    {
+        "name": "TrackHawk",
+        "price": "80,000",
+        "description": "The beastly Jeep Grand Cherokee Trackhawk is an SUV second to none out on the road. With a supercharged 6.2L V8 pumping out 707 horsepower, this Jeep is able to hit 0-60 mph in just 3.5 seconds and cover the span of a quarter mile in 11.6 seconds. It's the most powerful and quickest SUV ever made.",
+        "photo": "videos-images/Track.png",
+        "model": "Dodge"
+    },
+    {
+        "name": "Hellcat Durango",
+        "price": "80,000",
+        "description": "A ludicrous beast born largely of opportunity, the 2024 Dodge Durango SRT Hellcat blends the 6.2-liter supercharged “Hellcat” engine of Challenger and Charger Hellcat fame with a traditional SUV body style and succeeds with remarkably tractable results. In this tune, the engine makes 710 horsepower; all-wheel drive is standard, and ginormous Brembo brakes are on hand to cool things when necessary.",
+        "photo": "videos-images/Drango.png",
+        "model": "Dodge"
+    },
+    {
+        "name": "Demon 170",
+        "price": "150,000",
+        "description": "The 2023 Dodge Challenger SRT Demon 170 comes from the factory with a 6.2-liter HEMI® V8 engine that is fed by a 3.0-liter IHI supercharger to deliver 1,025 horsepower when running on E85 ethanol.",
+        "photo": "videos-images/170.png",
+        "model": "Dodge"
+    },
+    {
+        "name": "Mustang GT500",
+        "price": "90,000",
+        "description": "Aptly called Predator, the motor is a supercharged 5.2-liter V-8 that summons 760 horsepower and 625 pound-feet of torque. That prodigious power twists the rear wheels through a clairvoyant seven-speed dual-clutch automatic transmission (sorry, the mightiest Mustang isn't offered with a manual transmission).",
+        "photo": "videos-images/GT500.png",
+        "model": "Ford"
+    },
+    {
+        "name": "CT5-V Blackwing",
+        "price": "75,000",
+        "description": "Exclusive to the Blackwing is a supercharged 6.2-liter V8 good for 668 hp and 659 lb-ft of torque. There are two transmission options: a six-speed manual or a 10-speed automatic. Both send torque exclusively to the rear wheels. Keep reading for our editors' curated breakdown of the CT5's standard and optional features.",
+        "photo": "videos-images/blkWing.png",
+        "model": "Cadillac"
+    },
+    {
+        "name": "BMW M4",
+        "price": "75,000",
+        "description": "The M4 Competition xDrive Convertible is equipped with a 3.0-liter BMW M TwinPower Turbo inline 6-cylinder gasoline engine. The 523-horsepower output translates to a top speed of 155 mph, and a 0-60 mph time of 3.6 seconds.",
+        "photo": "videos-images/M4.png",
+        "model": "BMW"
+    },
+    {
+        "name": "BMW M5",
+        "price": "85,000",
+        "description": "Packing more of a punch with 17 additional horsepower compared to the standard M5, the M5 Competition can accelerate from 0 to 60 MPH in just 3.1 seconds on its way to a top speed of an astounding 190 MPH** (when equipped with performance tires and increased top-speed limiter).",
+        "photo": "videos-images/M5.png",
+        "model": "BMW"
+    }
+    
+]

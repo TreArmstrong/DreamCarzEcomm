@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Nitrous Kit",
+        "price": "3,000",
+        "description": "",
+        "photo": "videos-images/nos.png"
+    },
+    {
+        "name": "Turbo Kit",
+        "price": "4,000",
+        "description": "",
+        "photo": "videos-images/turbo.png"
+    },
+    {
+        "name": "Supercharger",
+        "price": "6,500",
+        "description": "",
+        "photo": "videos-images/SC.png"
+    },
+    {
+        "name": "Exhaust kit",
+        "price": "5,000",
+        "description": "",
+        "photo": "videos-images/exhaust.png"
+    },
+    {
+        "name": "Cam Kit",
+        "price": "2,500",
+        "description": "",
+        "photo": "videos-images/cam.png"
+    },
+    {
+        "name": "Air Intake Kit",
+        "price": "500.00",
+        "description": "",
+        "photo": "videos-images/intake.png"
+    },
+    {
+        "name": "Lowering Kit",
+        "price": "3,000",
+        "description": "",
+        "photo": "videos-images/lowkit.png"
+    },
+    {
+        "name": "Big Brake Kits",
+        "price": "5,000",
+        "description": "",
+        "photo": "videos-images/brakes.png"
+    }
+]    
